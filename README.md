@@ -6,7 +6,11 @@ Codes Discription
 
 Systems of linear equations
 
-gauss_seidel.c     COO.c.    gauss_jordan.c
+gauss_seidel.c
+
+COO.c
+
+gauss_jordan.c
 
 Matrix Work
 
